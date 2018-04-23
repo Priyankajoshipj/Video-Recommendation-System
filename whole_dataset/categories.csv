@@ -1,0 +1,367 @@
+#id,name,parent_id,wikipedia_url
+1,'Arts',15,'http://en.wikipedia.org/wiki/Arts'
+2,'Business',92,'http://en.wikipedia.org/wiki/Business'
+2,'Business',15,'http://en.wikipedia.org/wiki/Business'
+3,'Computers',15,'http://en.wikipedia.org/wiki/Computer'
+7,'Recreation',15,'http://en.wikipedia.org/wiki/Recreation'
+9,'Regional',15,NULL
+10,'Science',15,'http://en.wikipedia.org/wiki/Science'
+11,'Society',15,'http://en.wikipedia.org/wiki/Society'
+13,'Computer Science',10,'http://en.wikipedia.org/wiki/Computer_science'
+13,'Computer Science',3,'http://en.wikipedia.org/wiki/Computer_science'
+13,'Computer Science',15,'http://en.wikipedia.org/wiki/Computer_science'
+15,'Top',NULL,NULL
+16,'Machine Learning',13,'http://en.wikipedia.org/wiki/Machine_learning'
+17,'Kernel Methods',16,'http://en.wikipedia.org/wiki/Kernel_methods'
+18,'Support Vector Machines',17,'http://en.wikipedia.org/wiki/Support_vector_machine'
+19,'Bioinformatics',83,'http://en.wikipedia.org/wiki/Bioinformatics'
+19,'Bioinformatics',13,'http://en.wikipedia.org/wiki/Bioinformatics'
+20,'Boosting',16,'http://en.wikipedia.org/wiki/Boosting'
+21,'Fuzzy Logic',13,'http://en.wikipedia.org/wiki/Fuzzy_logic'
+22,'Programming',3,'http://en.wikipedia.org/wiki/Computer_programming'
+23,'Mathematics',15,'http://en.wikipedia.org/wiki/Mathematics'
+25,'Reinforcement Learning',16,'http://en.wikipedia.org/wiki/Reinforcement_learning'
+26,'Music',1,'http://en.wikipedia.org/wiki/Music'
+27,'Semantic Web',13,'http://en.wikipedia.org/wiki/Semantic_web'
+28,'Network Analysis',55,'http://en.wikipedia.org/wiki/Network_analysis'
+28,'Network Analysis',13,'http://en.wikipedia.org/wiki/Network_analysis'
+29,'Clustering',16,'http://en.wikipedia.org/wiki/Cluster_analysis'
+30,'Poetry',1,'http://en.wikipedia.org/wiki/Poetry'
+31,'Visual arts',1,'http://en.wikipedia.org/wiki/Visual_arts'
+32,'Sustainable Development',65,NULL
+33,'Statistical Learning',16,NULL
+34,'Bayesian Learning',16,NULL
+35,'Pattern Recognition',16,'http://en.wikipedia.org/wiki/Pattern_recognition'
+36,'Data Mining',13,'http://en.wikipedia.org/wiki/Data_mining'
+37,'Text Mining',13,'http://en.wikipedia.org/wiki/Text_mining'
+38,'Information Retrieval',13,'http://en.wikipedia.org/wiki/Information_retrieval'
+39,'Cryptography and Security',13,'http://en.wikipedia.org/wiki/Cryptography'
+40,'Image Analysis',13,'http://en.wikipedia.org/wiki/Image_analysis'
+41,'Data Visualisation',13,'http://en.wikipedia.org/wiki/Data_visualization'
+42,'Ontologies',27,'http://en.wikipedia.org/wiki/Ontology_(computer_science)'
+43,'OWL - Web Ontology Language',27,'http://en.wikipedia.org/wiki/Web_Ontology_Language'
+44,'RDF - Resource Description Framework ',27,'http://en.wikipedia.org/wiki/Resource_Description_Framework'
+45,'Venture Capital',2,'http://en.wikipedia.org/wiki/Venture_capital'
+46,'Inductive Logic Programming',16,'http://en.wikipedia.org/wiki/Inductive_logic_programming'
+47,'Neural Networks',16,'http://en.wikipedia.org/wiki/Artificial_neural_network'
+48,'Human Language Technology',16,'http://en.wikipedia.org/wiki/Natural_language_processing'
+49,'Graphical Models',16,'http://en.wikipedia.org/wiki/Graphical_model'
+50,'Information Extraction',13,'http://en.wikipedia.org/wiki/Information_extraction'
+51,'Virtual Enterprises',2,'http://en.wikipedia.org/wiki/Virtual_enterprise'
+52,'Gender Issues',11,NULL
+53,'Scientific Communication',11,'http://en.wikipedia.org/wiki/Science_communication'
+54,'Statistics',23,'http://en.wikipedia.org/wiki/Statistics'
+55,'Graph Theory',28,'http://en.wikipedia.org/wiki/Graph_theory'
+55,'Graph Theory',23,'http://en.wikipedia.org/wiki/Graph_theory'
+56,'Copyrights',82,'http://en.wikipedia.org/wiki/Copyright'
+58,'Physics',15,'http://en.wikipedia.org/wiki/Physics'
+59,'Chemistry',15,'http://en.wikipedia.org/wiki/Chemistry'
+60,'Medicine',15,'http://en.wikipedia.org/wiki/Medicine'
+61,'fMRI - Analysis',40,'http://en.wikipedia.org/wiki/Fmri'
+62,'Text Recognition',40,'http://en.wikipedia.org/wiki/Text_recognition'
+63,'Principal Component Analysis',16,'http://en.wikipedia.org/wiki/Principal_components_analysis'
+65,'Environment',15,'http://en.wikipedia.org/wiki/Environmental_science'
+66,'Tagging',70,'http://en.wikipedia.org/wiki/Folksonomy'
+67,'Gaussian Processes',16,'http://en.wikipedia.org/wiki/Gaussian_process'
+68,'Markov Processes',16,'http://en.wikipedia.org/wiki/Markov_process'
+69,'Robotics',13,'http://en.wikipedia.org/wiki/Robotics'
+70,'Annotation',27,'http://en.wikipedia.org/wiki/Web_annotation'
+71,'Computer Vision',13,'http://en.wikipedia.org/wiki/Computer_vision'
+72,'Linear Models',16,'http://en.wikipedia.org/wiki/Linear_model'
+73,'Computer Graphics',13,'http://en.wikipedia.org/wiki/Computer_graphics'
+74,'Literature',1,'http://en.wikipedia.org/wiki/Literature'
+75,'Web Development',22,'http://en.wikipedia.org/wiki/Web_development'
+76,'Interviews',13,NULL
+78,'Human Computer Interaction',13,'http://en.wikipedia.org/wiki/Human_Computer_Interaction'
+79,'Space',10,NULL
+80,'Architecture',15,'http://en.wikipedia.org/wiki/Architecture'
+81,'Education',15,'http://en.wikipedia.org/wiki/Education'
+82,'Law',15,'http://en.wikipedia.org/wiki/Law'
+83,'Biology',15,'http://en.wikipedia.org/wiki/Biology'
+84,'Anthropology',83,'http://en.wikipedia.org/wiki/Human_biology'
+85,'Bionics',83,'http://en.wikipedia.org/wiki/Bionics'
+86,'Biochemistry',83,'http://en.wikipedia.org/wiki/Biochemistry'
+87,'Ecology',83,'http://en.wikipedia.org/wiki/Ecology'
+88,'Botany',83,'http://en.wikipedia.org/wiki/Botany'
+89,'Technology',15,NULL
+90,'Nanotechnology',89,'http://en.wikipedia.org/wiki/Nanotechnology'
+91,'History',15,'http://en.wikipedia.org/wiki/History'
+92,'Economics',15,'http://en.wikipedia.org/wiki/Economics'
+93,'Psychology',15,'http://en.wikipedia.org/wiki/Psychology'
+94,'Performance',26,'http://en.wikipedia.org/wiki/Performance'
+95,'Networking',3,'http://en.wikipedia.org/wiki/Computer_network'
+96,'Algorithmic Information Theory',13,'http://en.wikipedia.org/wiki/Algorithmic_Information_Theory'
+97,'Kolmogorov Complexity',96,'http://en.wikipedia.org/wiki/Kolmogorov_Complexity'
+98,'Minimum Description Length',96,'http://en.wikipedia.org/wiki/Minimum_description_length'
+99,'Electronics',89,'http://en.wikipedia.org/wiki/Electronics'
+101,'Tools',37,NULL
+105,'Ethology',83,'http://en.wikipedia.org/wiki/Ethology'
+106,'Neuroscience ',83,'http://en.wikipedia.org/wiki/Neuroscience'
+107,'Active Learning',16,'http://en.wikipedia.org/wiki/Supervised_learning#Active_Learning'
+108,'Semi-supervised Learning',16,'http://en.wikipedia.org/wiki/Semi-supervised_learning'
+109,'Operations Research',23,'http://en.wikipedia.org/wiki/Operations_research'
+110,'Events',15,NULL
+111,'Structured data',16,NULL
+112,'Preprocessing',16,'http://en.wikipedia.org/wiki/Feature_selection'
+113,'Evolutionary Computation',13,'http://en.wikipedia.org/wiki/Evolutionary_computation'
+114,'Search Engines',13,'http://en.wikipedia.org/wiki/Search_engine'
+115,'Game Theory',23,'http://en.wikipedia.org/wiki/Game_theory'
+116,'Computational Learning Theory',16,'http://en.wikipedia.org/wiki/Computational_learning_theory'
+117,'Research Ethics',10,'http://en.wikipedia.org/wiki/Research_ethics'
+118,'Intelligent Agents',13,'http://en.wikipedia.org/wiki/Intelligent_agent'
+119,'Structured Output',16,'http://www2.informatik.hu-berlin.de/~brefeld/lisos/'
+120,'Spatial Data Structures',13,'http://en.wikipedia.org/wiki/Spatial_index'
+121,'Complexity Science',10,'http://en.wikipedia.org/wiki/Complex_adaptive_system'
+122,'Exploration vs. Exploitation',107,'http://www.homepages.ucl.ac.uk/~ucabzhu/OTEE.htm'
+123,'Ensemble Methods',16,'http://citeseer.ist.psu.edu/dietterich00ensemble.html'
+124,'On-line Learning',16,'http://citeseer.ist.psu.edu/blum96line.html'
+125,'Density estimation',16,'http://en.wikipedia.org/wiki/Density_estimation'
+126,'Unsupervised learning',16,'http://en.wikipedia.org/wiki/Unsupervised_learning'
+127,'Web Mining',13,'http://en.wikipedia.org/wiki/Web_mining'
+129,'Manifold Learning',16,'http://en.wikipedia.org/wiki/Manifold_learning'
+130,'Software and Tools',13,NULL
+131,'Time Series Analysis',36,'http://en.wikipedia.org/wiki/Time_Series'
+132,'Speech Analysis',13,'http://en.wikipedia.org/wiki/Speech_recognition'
+134,'Frequent Itemsets',36,'http://en.wikipedia.org/wiki/Association_rule_mining'
+135,'Multimedia Retrieval',38,'http://en.wikipedia.org/wiki/Image_retrieval'
+136,'Artificial Intelligence',13,'http://en.wikipedia.org/wiki/Artificial_Intelligence'
+137,'Decision Support',13,'http://en.wikipedia.org/wiki/Decision_support_system'
+138,'Algorithms and Data Structures',13,'http://en.wikipedia.org/wiki/Algorithms'
+139,'Chemoinformatics',59,'http://en.wikipedia.org/wiki/Chemoinformatics'
+139,'Chemoinformatics',13,'http://en.wikipedia.org/wiki/Chemoinformatics'
+142,'Instance-based Learning',16,'http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm'
+143,'Grid Computing',13,'http://en.wikipedia.org/wiki/Grid_computing'
+144,'Natural Language Processing ',13,'http://en.wikipedia.org/wiki/Natural_language_processing'
+146,'Regression',16,'http://en.wikipedia.org/wiki/Regression_analysis'
+147,'Telecommunications',3,'http://en.wikipedia.org/wiki/Telecommunication'
+149,'Genetics',83,'http://en.wikipedia.org/wiki/Genetics'
+150,'Social Networking',3,'http://en.wikipedia.org/wiki/Social_Networking'
+151,'Molecular biology',83,'http://en.wikipedia.org/wiki/Molecular_biology'
+152,'Microbiology ',83,'http://en.wikipedia.org/wiki/Microbiology'
+153,'Evolutionary biology',83,'http://en.wikipedia.org/wiki/Evolutionary_biology'
+154,'Cell biology',83,'http://en.wikipedia.org/wiki/Cell_biology'
+155,'Semantic Web Services',27,'http://en.wikipedia.org/wiki/Semantic_Web_Services'
+156,'Philosophy',15,'http://en.wikipedia.org/wiki/Philosophy'
+157,'Developmental Psychology',93,'http://en.wikipedia.org/wiki/Developmental_Psychology'
+158,'Innovation Journalism',355,'http://en.wikipedia.org/wiki/Innovation_journalism'
+159,'Animal ecology',87,NULL
+160,'Plant Ecology',87,NULL
+161,'Human biology',83,'http://en.wikipedia.org/wiki/Human_biology'
+162,'Transportation and Logistics',2,'http://en.wikipedia.org/wiki/Transportation'
+163,'Web Search',13,'http://en.wikipedia.org/wiki/Web_search_engine'
+164,'Networked Organizations',2,NULL
+165,'Logic',23,'http://en.wikipedia.org/wiki/Mathematical_logic'
+166,'Databases',13,'http://en.wikipedia.org/wiki/Database_management_system'
+167,'Information Society',11,NULL
+168,'Management',2,'http://en.wikipedia.org/wiki/Management'
+169,'Traffic Stafety',162,NULL
+170,'Knowledge Management',168,'http://en.wikipedia.org/wiki/Knowledge_management'
+171,'Humanities',15,'http://en.wikipedia.org/wiki/Humanities'
+172,'Languages',171,'http://en.wikipedia.org/wiki/Language'
+173,'Politics',11,'http://en.wikipedia.org/wiki/Politics'
+174,'Arithmetic',23,'http://en.wikipedia.org/wiki/Arithmetic'
+175,'Algebra',23,'http://en.wikipedia.org/wiki/Algebra'
+176,'Geometry',23,'http://en.wikipedia.org/wiki/Geometry'
+177,'Analysis',23,'http://en.wikipedia.org/wiki/Mathematical_analysis'
+179,'Nanomaterials',90,'http://en.wikipedia.org/wiki/Nanomaterials'
+180,'Nanostructures',179,'http://en.wikipedia.org/wiki/Nanostructure'
+181,'Nanomedicine',90,'http://en.wikipedia.org/wiki/Nanomedicine'
+182,'Molecular self-assembly',185,'http://en.wikipedia.org/wiki/Molecular_self-assembly'
+183,'Nanoelectronics',90,'http://en.wikipedia.org/wiki/Nanoelectronics'
+184,'Nanolithography',183,'http://en.wikipedia.org/wiki/Nanolithography'
+185,'Molecular nanotechnology',90,'http://en.wikipedia.org/wiki/Molecular_nanotechnology'
+186,'Microscopy',90,'http://en.wikipedia.org/wiki/Microscopy'
+187,'Quantum electronics',90,'http://en.wikipedia.org/wiki/Quantum_electronics'
+188,Devices - MEMS NEMS',90,'http://en.wikipedia.org/wiki/Nanoelectromechanical_systems'
+189,'Nanowires',183,'http://en.wikipedia.org/wiki/Nanowire'
+190,'Nanocircuitry',183,'http://en.wikipedia.org/wiki/Nanocircuitry'
+191,'Molecular electronics',183,'http://en.wikipedia.org/wiki/Molecular_electronics'
+192,'Fullerenes',179,'http://en.wikipedia.org/wiki/Fullerene'
+193,'Carbon nanotubes',179,'http://en.wikipedia.org/wiki/Carbon_nanotube'
+194,'Nanoparticles',179,'http://en.wikipedia.org/wiki/Nanoparticle'
+195,'Applications',90,'http://en.wikipedia.org/wiki/List_of_nanotechnology_applications'
+196,'Nanotoxicology',181,'http://en.wikipedia.org/wiki/Nanotoxicology'
+197,'Nanosensors',181,'http://en.wikipedia.org/wiki/Nanosensor'
+198,'Self-assembled monolayer',182,'http://en.wikipedia.org/wiki/Self-assembled_monolayer'
+199,'Supramolecular assembly',182,'http://en.wikipedia.org/wiki/Supramolecular_assembly'
+200,'DNA nanotechnology',182,'http://en.wikipedia.org/wiki/DNA_nanotechnology'
+201,'Scanning probe microscopy',186,'http://en.wikipedia.org/wiki/Scanning_probe_microscopy'
+202,'Atomic force microscopy',186,'http://en.wikipedia.org/wiki/Atomic_force_microscope'
+203,'Scanning tunneling microscopy',186,'http://en.wikipedia.org/wiki/Scanning_tunneling_microscope'
+204,'Molecular assemblers',185,'http://en.wikipedia.org/wiki/Molecular_assembler'
+205,'Nanorobotics',185,'http://en.wikipedia.org/wiki/Nanorobotics'
+206,'Mechanosynthesis',185,'http://en.wikipedia.org/wiki/Mechanosynthesis'
+208,'Quantum dots',179,'http://en.wikipedia.org/wiki/Quantum_dot'
+210,'Global Warming',65,'http://en.wikipedia.org/wiki/Global_warming'
+211,'Climate Change',65,'http://en.wikipedia.org/wiki/Climate_change'
+212,'Social Networks',11,'http://en.wikipedia.org/wiki/Social_network'
+213,'Link Analysis',55,NULL
+213,'Link Analysis',127,NULL
+214,'Social Networks',28,NULL
+218,'Mechanics',58,'http://en.wikipedia.org/wiki/Mechanics'
+219,'Particle Physics',58,'http://en.wikipedia.org/wiki/Particle_physics'
+220,'Electromagnetism',58,'http://en.wikipedia.org/wiki/Electromagnetism'
+221,'Energy',58,'http://en.wikipedia.org/wiki/Energy'
+221,'Energy',89,'http://en.wikipedia.org/wiki/Energy'
+223,'Nuclear Physics',58,'http://en.wikipedia.org/wiki/Nuclear_physics'
+224,'Astronomy',58,'http://en.wikipedia.org/wiki/Astronomy'
+225,'Quantum Mechanics',218,'http://en.wikipedia.org/wiki/Quantum_mechanics'
+225,'Quantum Mechanics',58,'http://en.wikipedia.org/wiki/Quantum_mechanics'
+227,'Theoretical Physics',58,'http://en.wikipedia.org/wiki/Theoretical_physics'
+228,'Programming languages',13,'http://en.wikipedia.org/wiki/Programming_language'
+229,'Scientific Research',10,'http://en.wikipedia.org/wiki/Scientific_research'
+230,'Applied Physics',58,'http://en.wikipedia.org/wiki/Applied_physics'
+231,'Human Rights',171,'http://en.wikipedia.org/wiki/Human_rights'
+232,'Optimization Methods',109,'http://en.wikipedia.org/wiki/Optimization_(mathematics)'
+232,'Optimization Methods',13,'http://en.wikipedia.org/wiki/Optimization_(mathematics)'
+234,'Linear Programming',232,'http://en.wikipedia.org/wiki/Linear_programming'
+235,'Genetic Algorithms',113,'http://en.wikipedia.org/wiki/Genetic_algorithm'
+235,'Genetic Algorithms',237,'http://en.wikipedia.org/wiki/Genetic_algorithm'
+236,'Simulated Annealing',232,'http://en.wikipedia.org/wiki/Simulated_annealing'
+237,'Stochastic Optimization',232,'http://en.wikipedia.org/wiki/Stochastic_optimization'
+239,'Leadership',2,'http://en.wikipedia.org/wiki/Leadership'
+240,'Literature',171,'http://en.wikipedia.org/wiki/Literature'
+241,'Kernel Principal Component Analysis',63,'http://en.wikipedia.org/wiki/Kernel_principal_component_analysis'
+241,'Kernel Principal Component Analysis',17,'http://en.wikipedia.org/wiki/Kernel_principal_component_analysis'
+243,'Multiple Kernel Learning',17,NULL
+244,'Astrophysics',58,'http://en.wikipedia.org/wiki/Astrophysics'
+245,'Dirichlet Processes',34,'http://en.wikipedia.org/wiki/Dirichlet_process'
+246,'Software',16,NULL
+247,'Operating Systems',3,'http://en.wikipedia.org/wiki/Operating_system'
+248,'Software',3,'http://en.wikipedia.org/wiki/Computer_software'
+249,'Open-Source Software',248,'http://en.wikipedia.org/wiki/Open-source_software'
+250,'Infrastructure',162,NULL
+251,'Technology',89,NULL
+251,'Technology',162,NULL
+252,'Environment',65,NULL
+252,'Environment',162,NULL
+255,'Pharmacology',60,'http://en.wikipedia.org/wiki/Pharmacology'
+256,'Systems Biology',257,'http://en.wikipedia.org/wiki/Systems_biology'
+256,'Systems Biology',83,'http://en.wikipedia.org/wiki/Systems_biology'
+257,'Computational Systems Biology',256,'http://en.wikipedia.org/wiki/Computational_systems_biology'
+257,'Computational Systems Biology',19,'http://en.wikipedia.org/wiki/Computational_systems_biology'
+260,'Econometrics',92,'http://en.wikipedia.org/wiki/Econometrics'
+261,'Macroeconomics',92,'http://en.wikipedia.org/wiki/Macroeconomics'
+262,'Engineering',89,'http://en.wikipedia.org/wiki/Engineering'
+263,'Calculus',23,'http://en.wikipedia.org/wiki/Calculus'
+264,'Photography',31,'http://en.wikipedia.org/wiki/Photography'
+265,'Film',31,'http://en.wikipedia.org/wiki/Film'
+266,'Digital Signal Processing',13,'http://en.wikipedia.org/wiki/Digital_signal_processing'
+268,'Logic',13,'http://en.wikipedia.org/wiki/Logic_in_computer_science'
+269,'Python',22,'http://en.wikipedia.org/wiki/Python_(programming_language)'
+271,'Recommender Systems',16,NULL
+272,'Temporal & Streams Mining',36,NULL
+273,'Social Content',36,NULL
+274,'Supervised Learning',16,'http://en.wikipedia.org/wiki/Supervised_learning'
+275,'Anomaly & Streams',36,NULL
+276,'Graph Mining',36,NULL
+278,'Search & Advertising',127,NULL
+279,'Anomaly Detection',36,NULL
+280,'Statistical & Consensus Methods',36,NULL
+281,'Pattern Mining Applications',36,NULL
+282,'Enterprise & Finance',36,NULL
+283,'Web & Behavior Mining',127,NULL
+284,'Data Mining Experiences',36,NULL
+285,'Multi-Relational Mining',36,NULL
+286,'Temporal Data',36,NULL
+287,'Security & Privacy',36,NULL
+288,'Frequent Patterns',36,NULL
+289,'Applications',36,NULL
+290,'Innovation',89,NULL
+291,'Political Philosophy',173,'http://en.wikipedia.org/wiki/Political_philosophy'
+292,'Human Resources',2,NULL
+293,'International Relations',173,NULL
+294,'Biodiversity',83,'http://en.wikipedia.org/wiki/Biodiversity'
+295,'Developmental biology',83,'http://en.wikipedia.org/wiki/Developmental_biology'
+296,'Bioethics',83,'http://en.wikipedia.org/wiki/Bioethics'
+297,'Biological education',83,NULL
+298,'Criminology',15,'http://en.wikipedia.org/wiki/Criminology'
+299,'Crime',11,NULL
+300,'Materials',89,NULL
+301,'Superconductivity',300,NULL
+302,'Internet',3,NULL
+303,'Forensics',82,NULL
+304,'Earth sciences',15,NULL
+305,'Geology',304,NULL
+306,'Paleontology',304,NULL
+307,'Painting',31,NULL
+308,'Computational Biology',13,NULL
+310,'Monte Carlo Methods',16,NULL
+311,'Multimedia',3,NULL
+312,'Informatics',60,'http://en.wikipedia.org/wiki/Health_informatics'
+313,'Interoperability',89,NULL
+314,'eGovernance',173,NULL
+315,'Healthcare',2,NULL
+318,'Sports',15,NULL
+319,'Java',22,NULL
+320,'History',3,NULL
+321,'PHP',22,NULL
+322,'Religion',11,NULL
+323,'Topology',23,NULL
+324,'Linguistics',171,NULL
+325,'Computational Linguistics',13,NULL
+326,'Lexicography',324,NULL
+327,'Intellectual Property',82,NULL
+328,'Patent Services',327,NULL
+329,'Ethics',156,NULL
+330,'Antimatter',58,NULL
+333,'Graphic design',1,'http://en.wikipedia.org/wiki/Graphic_design'
+334,'Information design',333,'http://en.wikipedia.org/wiki/Information_design'
+335,'Health Sciences',15,'http://en.wikipedia.org/wiki/Health_sciences'
+336,'Public health',335,NULL
+337,'Sanitary Engineering',262,NULL
+338,'Solar',221,NULL
+339,'Bankruptcy',82,NULL
+340,'Regulations',82,NULL
+341,'Contract',82,NULL
+343,'Sociology',15,NULL
+344,'Demography',343,NULL
+345,'Semantic Search',13,NULL
+346,'Poverty',11,NULL
+347,'Electrical engineering',262,NULL
+348,'Acoustics',58,NULL
+349,'Hydrology',304,NULL
+350,'Hydrogeology',349,NULL
+351,'Mineralogy',304,NULL
+352,'Stratigraphy',305,NULL
+353,'Astronomy',15,NULL
+354,'Organic chemistry',59,NULL
+355,'Journalism',15,NULL
+356,'Media studies',355,NULL
+357,'Small and medium enterprises (SMEs)',2,NULL
+358,'Wireless sensor network (WSN)',95,NULL
+359,'Smart Grids',221,NULL
+360,'Neuroscience',15,NULL
+361,'Ecosystems',87,NULL
+362,'Humanitarian Affairs',11,NULL
+363,'Military',15,NULL
+364,'Peace and Conflict',173,NULL
+366,'Trigonometry',23,NULL
+367,'Online Community',3,NULL
+368,'Blogging',3,NULL
+368,'Blogging',355,NULL
+370,'Remixing',11,NULL
+371,'Creative Commons licenses',56,NULL
+372,'Stock Market',2,NULL
+373,'Social Issues',11,NULL
+374,'Public Policy',11,NULL
+375,'Machine Translation',325,NULL
+376,'Object Recognition',71,NULL
+377,'Shape Analysis',71,NULL
+378,'Motion and Tracking',71,NULL
+379,'Video Analysis',71,NULL
+380,'Face & Gesture Analysis',71,NULL
+381,'Image & Video Retrieval',71,NULL
+382,Color Texture Illumination & Reflectance',71,NULL
+383,'Computational Photography',71,NULL
+384,'Sparsity & Convex Optimisation',71,NULL
+385,'Shape from X',71,NULL
+386,'Stereo & Structure from Motion',71,NULL
+388,'Concurrent Enterprising',2,NULL
+389,'Enterprise Interoperability',2,NULL
+390,'Enterprise Collaboration',2,NULL
+391,'Digital Media',3,NULL
+392,'Optimization',23,NULL
+393,'Liquid Crystals',58,NULL
+394,'Physiology',83,NULL
+395,'Pattern Recognition',13,'http://en.wikipedia.org/wiki/Pattern_recognition'
